@@ -1,0 +1,2 @@
+# gama
+gama_naver
